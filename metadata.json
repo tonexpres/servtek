@@ -1,0 +1,6 @@
+{
+  "name": "Servtek Informática",
+  "description": "Soluções completas em tecnologia: manutenção de computadores, sistemas comerciais (PDV, Estoque, RH, Contabilidade), criação de sites e design de logomarcas para empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
